@@ -23,9 +23,10 @@ npx cypress open
 
 
 ## To run the automation project using cypress -
-1.Download the zip folder and extract this
+1.Download the zip folder and extract this.
 
-2. Open the folder in VS code
+
+2.Open the folder in VS code
    
 3.Go to terminal and run below commands-
 
